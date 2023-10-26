@@ -1,4 +1,5 @@
-#JSPhoto Resturation
+### JSPhoto Resturation
+Reconstrução facil usando inteligencia artifical compativel com  CPU/GPU
 
 Restaura suas fotos borradas. com esse incrivel algoritimo de inteligencia artifical que reconstroi seu rosto usando inteligencia artificial.
 
