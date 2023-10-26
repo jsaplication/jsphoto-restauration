@@ -48,7 +48,7 @@ paramentros: ---------------
 
 
 ## Foto com Reconstrução facil
-![Exemplo](imagens/out.png)
+![Exemplo](imagens/out.jpg)
 
 
 Nosso Site [jsaplication.com.br](https://jsaplication.com.br)
