@@ -28,17 +28,27 @@ url: http://exemplo.com/reconstruir
 
 paramentros: ---------------
 ```json
-token: "api_key_abcd" // token definido no arquivo rest-api.py na linha 86
-version: 1.4v //versão do modelo.
-scale: 2 //escalatura da image exemplo qualidade quanto maior a escala mais qualidade a fodo fica mas tambem consome muito da sua gpu ou cpu
-imagem: // envie a image como multpart form data.
+{
+	"token": "api_key_abcd", // token definido no arquivo rest-api.py na linha 86
+	"version": 1.4v //versão do modelo.
+	"scale": 2, //escalatura da image exemplo qualidade quanto maior a escala mais qualidade a fodo fica mas tambem consome muito da sua gpu ou cpu
+	"imagem": "image.png" // envie a image como multpart form data.
+}
 ```
 
 
 
-## Exemplo de Uso
+## Intergace Gradio
 
 ![Exemplo](imagens/captura.png)
+
+
+## Foto Sem recontrução facil
+![Exemplo](imagens/exemplo.jpeg)
+
+
+## Foto com Reconstrução facil
+![Exemplo](imagens/out.png)
 
 
 Nosso Site [jsaplication.com.br](https://jsaplication.com.br)
