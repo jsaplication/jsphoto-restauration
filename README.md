@@ -43,7 +43,7 @@ paramentros: ---------------
 ![Exemplo](imagens/captura.png)
 
 
-## Foto Sem recontrução facil
+## Foto Sem reconstrução facil
 ![Exemplo](imagens/exemplo.jpeg)
 
 
