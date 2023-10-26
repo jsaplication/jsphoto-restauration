@@ -44,11 +44,11 @@ paramentros: ---------------
 
 
 ## Foto Sem reconstrução facil
-![Exemplo](imagens/exemplo.jpeg)
+![Exemplo1](imagens/exemplo.jpeg)
 
 
 ## Foto com Reconstrução facil
-![Exemplo](imagens/out.jpg)
+![Exemplo2](imagens/outg.jpg)
 
 
 Nosso Site [jsaplication.com.br](https://jsaplication.com.br)
