@@ -52,4 +52,9 @@ paramentros: ---------------
 ![Exemplo2](imagens/outg.jpg)
 
 
+Todo codigo foi baseado no [GFPGAN](https://github.com/TencentARC/GFPGAN)
+Teste online: [Creditos Clem](https://huggingface.co/spaces/clem/Image_Face_Upscale_Restoration-GFPGAN)
 Nosso Site [jsaplication.com.br](https://jsaplication.com.br)
+
+
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
